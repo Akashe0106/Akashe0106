@@ -1,8 +1,12 @@
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=akashe0106&label=Profile%20views&color=0e75b6&style=flat" alt="akashe0106"/>
-<img src="https://img.shields.io/discord/937066542112309288" alt="nekocraft"/>
+<p align="center"> 
+<img src=".github/assets/oonco.png" alt="Alternatif Metin" width="720px" height="200px"/>
 </p>
+
+<p align="right">
+<img src="https://img.shields.io/discord/937066542112309288" alt="nekocraft"/>
+<img src="https://komarev.com/ghpvc/?username=akashe0106&label=Profile%20views&color=0e75b6&style=flat" alt="akashe0106"/>
+</p>
+
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
