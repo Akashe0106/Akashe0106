@@ -10,13 +10,13 @@
 ---
 
 
+
+
 <details>
-<summary>Tebrikler! Sana küçük bir sürprizimiz var: 🎁</summary>
-  <img src="assets/cookie-gift.png" alt="hediye">
-  <p>Sana özel bir hediye! 🎉</p>
+<summary>Tıkla ve hediyeni al! 🎁</summary>
+  <a href="https://www.youtube.com/@akashe0106" target="blank"><img src=".github/assets/cookie-gift.png" alt="hediye"></a>
+  <p>✨ Afiyet olsun <3 ✨</p>
 </details>
-
-
 
 ---
 
