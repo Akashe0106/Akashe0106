@@ -1,3 +1,5 @@
+<h1 align="center">AkaShe - Full Stack Geliştirici</h1>
+
 <p align="center"> 
 <img src=".github/assets/oonco.png" alt="Alternatif Metin" width="720px" height="200px"/>
 </p>
@@ -7,15 +9,41 @@
 <img src="https://komarev.com/ghpvc/?username=akashe0106&label=Profile%20views&color=0e75b6&style=flat" alt="akashe0106"/>
 </p>
 
----
+<h2 id="hakkımda">Hakkımda</h2>
+<p>C#, JavaScript, HTML ve CSS konusunda yetkin, hem web tabanlı hem de masaüstü uygulamalar geliştirebilen, oyun dosyaları (özellikle Minecraft) ile ilgilenen ve client-server mimarisine hakim, hevesli ve öğrenmeye açık bir full stack geliştiriciyim. Mesajlaşma uygulamaları, Discord botları gibi projeler üzerinde çalıştım ve bu alandaki yeteneklerimi sürekli geliştirmekteyim.</p>
 
+<h2>Yetenekler</h2>
+<ul>
+<li><strong>Programlama Dilleri:</strong> C#, JavaScript (Node.js)</li>
+<li><strong>Web Teknolojileri:</strong> HTML5, CSS3, BootStrap, <a href="http://ASP.NET">ASP.NET</a>  (Web Forms)</li>
+<li><strong>Masaüstü Uygulama Geliştirme:</strong> Windows Forms</li>
+<li><strong>Veritabanları:</strong> SQL Server, MySQL</li>
+<li><strong>Oyun Geliştirme:</strong> Minecraft oyun dosyaları ile çalışma deneyimi</li>
+<li><strong>Client-Server Mimarisi:</strong> Mesajlaşma uygulamaları ve Discord botu geliştirme tecrübesi</li>
+</ul>
 
+<h2>Hedefler</h2>
+<ul>
+<li>
+<p><strong>Teknik Uzmanlık ve Sürekli Gelişim:</strong> Yazılım geliştirme alanındaki bilgi ve becerilerimin sınırlarını zorlayarak, özellikle C#, JavaScript (Node.js) ve “client-server” mimarileri konularında derinlemesine uzmanlaşmak. Sürekli öğrenme ilkesiyle, yeni teknolojileri ve araçları takip ederek sektördeki en iyi uygulamalara hakim olmak ve bunları projelerime entegre etmek.</p>
+</li>
+<li>
+<p><strong>Profesyonel Gelişim ve İş Birliği</strong>: Büyük ölçekli projelerde, alanında uzman geliştiricilerle birlikte çalışarak, yazılım geliştirme süreçlerinin her aşamasında (tasarım, geliştirme, test, dağıtım) aktif rol almak. Takım çalışmasına yatkınlığımı ve iletişim becerilerimi kullanarak, projelerin başarılı bir şekilde tamamlanmasına katkıda bulunmak.</p>
+</li>
+<li>
+<p><strong>Topluluğa Katkı ve Bilgi Paylaşımı:</strong> Edindiğim bilgi ve deneyimi, eğitici içerikler (blog yazıları, video dersler, açık kaynak projeler vb.) aracılığıyla yazılım topluluğuyla paylaşmak. Özellikle yeni başlayan geliştiricilere yol göstermek, onlara ilham vermek ve karmaşık konuları anlaşılır bir şekilde aktararak sektördeki bilgi birikimine katkıda bulunmak.</p>
+</li>
+<li>
+<p><strong>Oyun Geliştirme ve Girişimcilik:</strong> Kurucusu olduğum oyun sunucusunu (Minecraft), teknik yeteneklerimi kullanarak (modlama, eklenti geliştirme, sunucu optimizasyonu) daha ileri bir seviyeye taşımak. Bu süreçte edindiğim oyun geliştirme ve sunucu yönetimi deneyimini, gelecekteki potansiyel oyun projelerinde veya girişimlerde kullanmak.</p>
+</li>
+</ul>
 
 
 <details>
-<summary>Tıkla ve hediyeni al! 🎁</summary>
-  <a href="https://www.youtube.com/@akashe0106" target="blank"><img src=".github/assets/cookie-gift.png" alt="hediye"></a>
-  <p>✨ Afiyet olsun <3 ✨</p>
+<summary><h2>Projeler</h2></summary>
+<ul>
+<li><strong>CleanAuthKit;</strong> <em>kullanıcıların giriş yapabilmesi, kayıt olabilmesi ve şifrelerini sıfırlayabilmesi için modern ve şık bir tasarım sunar. Bu proje, kullanıcı dostu bir arayüz sağlar ve responsive (mobil uyumlu) tasarım ile her cihazda mükemmel görünür. <a href="https://github.com/Akashe0106/CleanAuthKit">GitHub Linki</a></em></li>
+</ul>
 </details>
 
 ---
