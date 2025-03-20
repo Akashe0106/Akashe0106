@@ -1,7 +1,7 @@
 <h1 align="center">AkaShe - Full Stack Geliştirici</h1>
 
 <p align="center"> 
-<a href="https://www.nekocraft.online" target="blank"><img src=".github/assets/model.png" alt="NekoCraft" width="720px" height="144px"/></a>
+<a href="https://www.nekocraft.online" target="blank"><img src=".github/assets/model.png" alt="NekoCraft"/></a>
 </p>
 
 <p align="right">
