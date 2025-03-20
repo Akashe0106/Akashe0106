@@ -1,7 +1,7 @@
 <h1 align="center">AkaShe - Full Stack Geliştirici</h1>
 
 <p align="center"> 
-<img src=".github/assets/oonco.png" alt="Alternatif Metin" width="720px" height="200px"/>
+<a href="https://www.nekocraft.online" target="blank"><img src=".github/assets/model.png" alt="NekoCraft" width="720px" height="144px"/></a>
 </p>
 
 <p align="right">
@@ -9,13 +9,13 @@
 <img src="https://komarev.com/ghpvc/?username=akashe0106&label=Profile%20views&color=0e75b6&style=flat" alt="akashe0106"/>
 </p>
 
-<h2 id="hakkımda">Hakkımda</h2>
+<h2>Hakkımda</h2>
 <p>C#, JavaScript, HTML ve CSS konusunda yetkin, hem web tabanlı hem de masaüstü uygulamalar geliştirebilen, oyun dosyaları (özellikle Minecraft) ile ilgilenen ve client-server mimarisine hakim, hevesli ve öğrenmeye açık bir full stack geliştiriciyim. Mesajlaşma uygulamaları, Discord botları gibi projeler üzerinde çalıştım ve bu alandaki yeteneklerimi sürekli geliştirmekteyim.</p>
 
 <h2>Yetenekler</h2>
 <ul>
 <li><strong>Programlama Dilleri:</strong> C#, JavaScript (Node.js)</li>
-<li><strong>Web Teknolojileri:</strong> HTML5, CSS3, BootStrap, <a href="http://ASP.NET">ASP.NET</a>  (Web Forms)</li>
+<li><strong>Web Teknolojileri:</strong> HTML5, CSS3, BootStrap, ASP.NET (Web Forms)</li>
 <li><strong>Masaüstü Uygulama Geliştirme:</strong> Windows Forms</li>
 <li><strong>Veritabanları:</strong> SQL Server, MySQL</li>
 <li><strong>Oyun Geliştirme:</strong> Minecraft oyun dosyaları ile çalışma deneyimi</li>
