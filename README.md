@@ -7,6 +7,18 @@
 <img src="https://komarev.com/ghpvc/?username=akashe0106&label=Profile%20views&color=0e75b6&style=flat" alt="akashe0106"/>
 </p>
 
+---
+
+
+<details>
+<summary>Tebrikler! Sana küçük bir sürprizimiz var: 🎁</summary>
+  <img src="assets/cookie-gift.png" alt="hediye">
+  <p>Sana özel bir hediye! 🎉</p>
+</details>
+
+
+
+---
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
