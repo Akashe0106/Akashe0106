@@ -5,8 +5,8 @@
 </p>
 
 <p align="right">
-<img src="https://img.shields.io/discord/937066542112309288" alt="nekocraft"/>
-<img src="https://komarev.com/ghpvc/?username=akashe0106&label=Profile%20views&color=0e75b6&style=flat" alt="akashe0106"/>
+<a href="https://discord.com/invite/nekocraft" target="blank"><img src="https://img.shields.io/discord/937066542112309288" alt="nekocraft"/></a>
+<a href="https://github.com/Akashe0106"><img src="https://komarev.com/ghpvc/?username=akashe0106&label=Profile%20views&color=0e75b6&style=flat" alt="akashe0106"/></a>
 </p>
 
 <h2>Hakkımda</h2>
@@ -20,22 +20,6 @@
 <li><strong>Veritabanları:</strong> SQL Server, MySQL</li>
 <li><strong>Oyun Geliştirme:</strong> Minecraft oyun dosyaları ile çalışma deneyimi</li>
 <li><strong>Client-Server Mimarisi:</strong> Mesajlaşma uygulamaları ve Discord botu geliştirme tecrübesi</li>
-</ul>
-
-<h2>Hedefler</h2>
-<ul>
-<li>
-<p><strong>Teknik Uzmanlık ve Sürekli Gelişim:</strong> Yazılım geliştirme alanındaki bilgi ve becerilerimin sınırlarını zorlayarak, özellikle C#, JavaScript (Node.js) ve “client-server” mimarileri konularında derinlemesine uzmanlaşmak. Sürekli öğrenme ilkesiyle, yeni teknolojileri ve araçları takip ederek sektördeki en iyi uygulamalara hakim olmak ve bunları projelerime entegre etmek.</p>
-</li>
-<li>
-<p><strong>Profesyonel Gelişim ve İş Birliği</strong>: Büyük ölçekli projelerde, alanında uzman geliştiricilerle birlikte çalışarak, yazılım geliştirme süreçlerinin her aşamasında (tasarım, geliştirme, test, dağıtım) aktif rol almak. Takım çalışmasına yatkınlığımı ve iletişim becerilerimi kullanarak, projelerin başarılı bir şekilde tamamlanmasına katkıda bulunmak.</p>
-</li>
-<li>
-<p><strong>Topluluğa Katkı ve Bilgi Paylaşımı:</strong> Edindiğim bilgi ve deneyimi, eğitici içerikler (blog yazıları, video dersler, açık kaynak projeler vb.) aracılığıyla yazılım topluluğuyla paylaşmak. Özellikle yeni başlayan geliştiricilere yol göstermek, onlara ilham vermek ve karmaşık konuları anlaşılır bir şekilde aktararak sektördeki bilgi birikimine katkıda bulunmak.</p>
-</li>
-<li>
-<p><strong>Oyun Geliştirme ve Girişimcilik:</strong> Kurucusu olduğum oyun sunucusunu (Minecraft), teknik yeteneklerimi kullanarak (modlama, eklenti geliştirme, sunucu optimizasyonu) daha ileri bir seviyeye taşımak. Bu süreçte edindiğim oyun geliştirme ve sunucu yönetimi deneyimini, gelecekteki potansiyel oyun projelerinde veya girişimlerde kullanmak.</p>
-</li>
 </ul>
 
 
