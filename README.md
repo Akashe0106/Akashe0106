@@ -27,7 +27,8 @@
 <summary><h2>Projeler</h2></summary>
 <ul><li><strong>CleanAuthKit;</strong> <em>kullanıcıların giriş yapabilmesi, kayıt olabilmesi ve şifrelerini sıfırlayabilmesi için modern ve şık bir tasarım sunar. Bu proje, kullanıcı dostu bir arayüz sağlar ve responsive (mobil uyumlu) tasarım ile her cihazda mükemmel görünür. <a href="https://github.com/Akashe0106/CleanAuthKit">GitHub Linki</a></em></li></ul>
 <ul><li><strong>BetterConsolePlugin;</strong> <em>.NET projelerinizde konsol uygulamalarını daha etkileşimli ve kullanıcı dostu hale getirmenize yardımcı olan açık kaynaklı DLL. <a href="https://github.com/Akashe0106/BetterConsolePlugin">GitHub Linki</a></em></li></ul>
-<ul><li><strong>BatchDex; Windows için geliştirilmiş, sözdizimi vurgulama özelliğine sahip basit ve kullanıcı dostu bir Batch script düzenleyicisidir (`.bat`, `.cmd`). Batch dosyaları oluşturmayı ve düzenlemeyi kolaylaştırmak için tasarlanmıştır. <a href="https://github.com/Akashe0106/BatchDex">GitHub Linki</a></em></li></ul>
+
+<ul><li><strong>BatchDex;</strong> <em> Windows için geliştirilmiş, sözdizimi vurgulama özelliğine sahip basit ve kullanıcı dostu bir Batch script düzenleyicisidir (`.bat`, `.cmd`). Batch dosyaları oluşturmayı ve düzenlemeyi kolaylaştırmak için tasarlanmıştır. <a href="https://github.com/Akashe0106/BatchDex">GitHub Linki</a></em></li></ul>
 </details>
 
 ---
