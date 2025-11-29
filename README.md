@@ -17,7 +17,7 @@
 <li><strong>Programlama Dilleri:</strong> C#, JavaScript (Node.js)</li>
 <li><strong>Web Teknolojileri:</strong> HTML5, CSS3, BootStrap, ASP.NET (Web Forms)</li>
 <li><strong>Masaüstü Uygulama Geliştirme:</strong> Windows Forms</li>
-<li><strong>Veritabanları:</strong> SQL Server, MySQL</li>
+<li><strong>Veritabanları:</strong> SQL Server, MySQL, MongoDB</li>
 <li><strong>Oyun Geliştirme:</strong> Minecraft oyun dosyaları ile çalışma deneyimi</li>
 <li><strong>Client-Server Mimarisi:</strong> Mesajlaşma uygulamaları ve Discord botu geliştirme tecrübesi</li>
 </ul>
